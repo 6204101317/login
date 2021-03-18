@@ -42,26 +42,6 @@
         </div>
       </v-col>
     </v-row>
-    <v-col sm="12">
-          <v-row>
-            <v-col sm="6">
-              <div class="text-center">
-                <v-btn
-                  text
-                  href= https://sky-rental-admin.web.app/
-                  >
-      For Admin
-    </v-btn><v-btn
-      text
-      href= https://sky-rental-customer.web.app/
-    >
-      For Owner
-    </v-btn>
-              </div>
-              
-            </v-col>
-          </v-row>
-        </v-col>
   </v-container>
 </div>
         
